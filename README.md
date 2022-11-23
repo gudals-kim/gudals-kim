@@ -6,10 +6,12 @@
 ![Django](https://img.shields.io/badge/django-blue.svg?&style=for-the-badge&logo=django&logoColor=#092E20)
     - orm :
 ![jpa](https://img.shields.io/badge/jpa-red.svg?&style=for-the-badge&logo=Hibernate&logoColor=#59666C)
+![mybatis](https://img.shields.io/badge/mybatis-khaki.svg?&style=for-the-badge&logo=Apache&logoColor=##D22128)
 
     - template engine :
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-lightgreen.svg?&style=for-the-badge&logo=Thymeleaf&logoColor=#005F0F)
-![mybatis](https://img.shields.io/badge/mybatis-khaki.svg?&style=for-the-badge&logo=Apache&logoColor=##D22128)
+![jsp](https://img.shields.io/badge/jsp-pink.svg?&style=for-the-badge&logo=jsp&logoColor=##D22128)
+
 * DB : 
 ![mySQL](https://img.shields.io/badge/mySQL-pink.svg?&style=for-the-badge&logo=mysql&logoColor=#4479A1)
 * language : 
@@ -20,6 +22,7 @@
 * tool : 
 ![git](https://img.shields.io/badge/git-gray.svg?&style=for-the-badge&logo=git&logoColor=#F05032)
 ![notion](https://img.shields.io/badge/notion-yellow.svg?&style=for-the-badge&logo=notion&logoColor=#000000)
+* Ect :
 ![aws](https://img.shields.io/badge/AWS-white.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=yellow)
 ## 👀 algorithm stats 👀
 
