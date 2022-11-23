@@ -1,4 +1,4 @@
-## 💻 Teck stack to learn 💻
+## 💻 Tech stack to learn 💻
 
 * web-back
     - framework :
