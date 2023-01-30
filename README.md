@@ -1,25 +1,34 @@
 
-## ***"when something is important enough,  do it even if th odds are not in your favor." -- owner of tesla***
+## ***"Today's commit changes my future."*** 
 
-### hyeongmin -- @gudals-kim
+### 🙌 hello world
 
-👋 안녕하세요, gudals 입니다. 저는 현재 정보보안학과를 졸업하고 백엔드 개발자로 일하길 희망하고 있습니다. 
+👋 hello, I'm gudals-kim. I am currently graduating from the Department of Information Security. 
 
-- [notion 이력서]()
-- [공부방 저장소](https://github.com/gudals-kim/Studyroom#studyroom)
 
+
+### 🔭 I’m currently working on
+- I want to work as a back-end developer.
+  - [notion 이력서]()
+  - [공부방 저장소](https://github.com/gudals-kim/Studyroom#studyroom)
+
+### 🌱 I’m currently learning
+- Languages: Java, Python, JavaScript, Typescript
+- Topics #1: web / http, beck-end(spring boot, django)
+- Topics #2: security / web-vulnerability, secure network modeling, malware analysis
+- Topics #3: Machine Learning / CNN, RNN, Linear Algebra, numerical analysis
 
 <h3 align="center"> 🔥 Tech Stack 🔥</h3>
-
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/django-3766AB?style=flat-square&logo=django&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MySQL-fefefe?style=flat-square&logo=mysql&logoColor=dark"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-6DB33F?style=flat-square&logo=Kotlin&logoColor=a431f0"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/android studio-6DB33F?style=flat-square&logo=android&logoColor=dark"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=red"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/django-3766AB?style=flat-square&logo=django&logoColor=red"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/tensorflow-3766AB?style=flat-square&logo=tensorflow&logoColor=red"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MySQL-ffb811?style=flat-square&logo=mysql&logoColor=darkred"/></a>&nbsp 
 </p>
 
 <p align="center">
