@@ -9,7 +9,7 @@
 
 ### 🔭 I’m currently working on
 - I want to work as a back-end developer.
-  - <a href=""><img src="https://img.shields.io/badge/notion-ffcc4d?style=flat-square&logo=notion&logoColor=black"/></a> [Repository for Curriculum Vitae]() 
+  - <a href="https://lovely-change-ed0.notion.site/About-Me-fcd0016502b04093b31745ec448f9eee"><img src="https://img.shields.io/badge/notion-ffcc4d?style=flat-square&logo=notion&logoColor=black"/></a> [Repository for Curriculum Vitae](https://lovely-change-ed0.notion.site/About-Me-fcd0016502b04093b31745ec448f9eee) 
   - <a href="https://github.com/gudals-kim/Studyroom#studyroom"><img src="https://img.shields.io/badge/github-bebfc1?style=flat-square&logo=git&logoColor=24292f"/></a> [Repository for Presentations](https://github.com/gudals-kim/Studyroom#studyroom)
 
 ### 🌱 I’m currently learning
