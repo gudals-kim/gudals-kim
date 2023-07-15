@@ -8,14 +8,13 @@
 
 
 ### 🔭 I’m currently working on
-- I want to work as a back-end developer.
-  - <a href="https://lovely-change-ed0.notion.site/About-Me-fcd0016502b04093b31745ec448f9eee"><img src="https://img.shields.io/badge/notion-ffcc4d?style=flat-square&logo=notion&logoColor=black"/></a> [Repository for Curriculum Vitae](https://lovely-change-ed0.notion.site/About-Me-fcd0016502b04093b31745ec448f9eee) 
-  - <a href="https://github.com/gudals-kim/Studyroom#studyroom"><img src="https://img.shields.io/badge/github-bebfc1?style=flat-square&logo=git&logoColor=24292f"/></a> [Repository for Presentations](https://github.com/gudals-kim/Studyroom#studyroom)
+- Samsung Software Academy(SSAFY 10th)
+  - 2023/07/05 ~ 2024/06/30
 
 ### 🌱 I’m currently learning
-- Languages: Java, Python, JavaScript, Typescript
+- Languages: Java, Python
 - Topics #1: web / http, beck-end(spring boot, django)
-- Topics #2: security / web-vulnerability, secure network modeling, malware analysis
+- Topics #2: security / Web3.0&Blockchain, web-vulnerability, secure network modeling, malware analysis
 - Topics #3: Machine Learning / CNN, RNN, Linear Algebra, numerical analysis
 
 <h3 align="center"> 🔥 Tech Stack 🔥</h3>
