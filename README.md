@@ -5,7 +5,7 @@
 
 👋 hello, I'm gudals-kim. I am currently graduating from the Department of Information Security. 
 
-
+[포트폴리오](https://github.com/gudals-kim/gudals-kim/blob/delevlop/%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%92%E1%85%A7%E1%86%BC%E1%84%86%E1%85%B5%E1%86%AB(980420).pdf)
 
 ### 🔭 I’m currently working on
 - Samsung Software Academy(SSAFY 10th)
@@ -13,9 +13,9 @@
 
 ### 🌱 I’m currently learning
 - Languages: Java, Python
-- Topics #1: web / http, beck-end(spring boot, django)
-- Topics #2: security / Web3.0&Blockchain, web-vulnerability, secure network modeling, malware analysis
-- Topics #3: Machine Learning / CNN, RNN, Linear Algebra, numerical analysis
+- Topics #1: web, aos, ios / http, beck-end(spring boot, django)
+- Topics #2: cloud infra / 
+- Topics #3: security / 
 
 <h3 align="center"> 🔥 Tech Stack 🔥</h3>
 <p align="center"> Techs that I've used at least once </p>
